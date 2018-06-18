@@ -1,6 +1,1 @@
-BLUE
-Green
-Red
-
-Size: L
-Size: M
+START OVER
