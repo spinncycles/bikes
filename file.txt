@@ -1,8 +1,6 @@
 BLUE
-<<<<<<< HEAD
 Green
-=======
+Red
 
 Size: L
 Size: M
->>>>>>> sizes
