@@ -5,6 +5,3 @@ Size: L
 Size: M
 Size: XL
 SIZE: S
-
-M1
-
