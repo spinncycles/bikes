@@ -3,3 +3,4 @@ MASTER 2
 
 
 Color: Red
+Color: Blue
