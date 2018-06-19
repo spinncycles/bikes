@@ -10,3 +10,4 @@ Color: Blue
 Color: Green
 
 Size: S
+Size: M
